@@ -14,12 +14,6 @@ Abra a raiz do projeto, e digite no terminal: "yarn" ou "npm install";
 
 Após a instalação das depêndencias do projeto, basta digitar no mesmo terminal o comando: "yarn start" ou "npm run start".
 
-Observações a serem consideradas:
-
-Este projeto possui eslint, que garante a qualidade do código e o torna legível.
-
-Todos os botões possuem uma interatividade.
-
 Obrigado pela oportunidade, espero que gostem!
 
 Feito com carinho por: ViniMnzs.

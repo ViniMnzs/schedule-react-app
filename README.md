@@ -1,6 +1,6 @@
-Este repositório é um projeto desenvolvido em React.js para realizar um teste de desenvolvedor frontend.
+Este repositório é um projeto desenvolvido em React.js e Node.js.
 
-O projeto consiste em uma responsiva, com uma lista de produtos e interações para a experiência do usuário.
+O projeto consiste em um CRUD de agendamento de consultas médicas.
 
 Para rodar o projeto, siga os passos abaixo:
 
@@ -13,12 +13,6 @@ Clone este repositório do github;
 Abra a raiz do projeto, e digite no terminal: "yarn" ou "npm install";
 
 Após a instalação das depêndencias do projeto, basta digitar no mesmo terminal o comando: "yarn start" ou "npm run start".
-
-Observações a serem consideradas:
-
-Este projeto possui eslint, que garante a qualidade do código e o torna legível.
-
-Todos os botões possuem uma interatividade.
 
 Obrigado pela oportunidade, espero que gostem!
 

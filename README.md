@@ -1,6 +1,6 @@
-Este repositório é um projeto desenvolvido em React.js para realizar um teste de desenvolvedor frontend.
+Este repositório é um projeto desenvolvido em React.js e Node.js.
 
-O projeto consiste em uma responsiva, com uma lista de produtos e interações para a experiência do usuário.
+O projeto consiste em um CRUD de agendamento de consultas médicas.
 
 Para rodar o projeto, siga os passos abaixo:
 
